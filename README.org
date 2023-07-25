@@ -1,0 +1,10 @@
+* cl-tls
+
+An implementation of TLS and related specifications in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/shrdlu68/cl-tls.git   |
+| commit  | 2ab4fc3  |
+| systems | cl-tls |
+|---------+-------------------------------------------|
+
